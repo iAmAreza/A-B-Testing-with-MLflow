@@ -70,9 +70,9 @@ with mlflow.start_run(run_name="Model_B"):
 
 **I have implemented A/B testing by runnig two different model on iris dataset, run gradient boosting and random forest algorithm  and compare f1 score and accuracy**
 
-![image 1](images\model_A_B.png)
-![image 2](images\model_A_B_experiment.png)
-![image 3](images\metrics_a_b_testing.png)
+![image 1](images/model_A_B.png)
+![image 2](images/model_A_B_experiment.png)
+![image 3](images/metrics_a_b_testing.png)
 
 ## Conclusion
 A/B testing is a powerful method to validate model performance in a structured and data-driven manner. By leveraging tools like MLflow, machine learning practitioners can effectively track experiments, compare results, and make informed decisions about deploying the best-performing models into production.
