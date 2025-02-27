@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/A_B%20Testing%20Mlflow/mlruns/249709026011143316/f051d485ab074ad882be724c50a17020/artifacts
+end_time: 1740652898906
+entry_point_name: ''
+experiment_id: '249709026011143316'
+lifecycle_stage: active
+run_id: f051d485ab074ad882be724c50a17020
+run_name: Model_A_RandomForest
+run_uuid: f051d485ab074ad882be724c50a17020
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740652891617
+status: 3
+tags: []
+user_id: hp

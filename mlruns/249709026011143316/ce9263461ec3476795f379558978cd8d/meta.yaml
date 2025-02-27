@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/A_B%20Testing%20Mlflow/mlruns/249709026011143316/ce9263461ec3476795f379558978cd8d/artifacts
+end_time: 1740652904139
+entry_point_name: ''
+experiment_id: '249709026011143316'
+lifecycle_stage: active
+run_id: ce9263461ec3476795f379558978cd8d
+run_name: Model_B_GradientBoosting
+run_uuid: ce9263461ec3476795f379558978cd8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740652898918
+status: 3
+tags: []
+user_id: hp
